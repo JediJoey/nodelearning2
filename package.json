@@ -1,7 +1,7 @@
 {
   "name": "joeypackage",
   "version": "1.0.0",
-  "description": "This is the npm package I created for learning purposes.  I am adding a sentence for the commit.",
+  "description": "This is the npm package I created for learning purposes.  I am adding a sentence for the commit. This is the 2nd commit sentence",
   "main": "index.js",
   "directories": {
     "lib": "lib"
