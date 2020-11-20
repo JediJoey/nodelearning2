@@ -1,0 +1,15 @@
+{
+  "name": "joeypackage",
+  "version": "1.0.0",
+  "description": "This is the npm package I created for learning purposes.  I am adding a sentence for the commit.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "testcmd"
+  },
+  "author": "Joey Wheeler",
+  "license": "MIT",
+  "repository": "https://github.com/JediJoey/nodelearning.git"
+}
